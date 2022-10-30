@@ -18,7 +18,7 @@ const songs = [
     artist: "Madeon",
   },
   {
-    name: "Calvin Harris - Thinking about you",
+    name: "Calvin Harris - Thinking About You",
     displayName: "Thinking About You",
     artist: "Calvin Harris",
   },
